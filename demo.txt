@@ -7,3 +7,5 @@ this is the 3rd line
 hii i am amrita
 hey
 Did you notice that Line 4 is completely missing?
+heyy Now open your eyes.
+Read this sentence carefully.
