@@ -8,3 +8,8 @@ hii i am amrita
 
 hey
 Did you notice that Line 4 is completely missing?
+heyy , i am amrita Rani Shaw , currently i am learning MERN stack.
+i enjoy creating responsive website usnig HTML, CSS , JS.
+i like to play bedminton.
+i want to become a successfull engineering in my life ..
+That's all 
